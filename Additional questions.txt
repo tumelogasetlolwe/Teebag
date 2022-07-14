@@ -1,0 +1,15 @@
+1. I'd firstly have to choose one of the environment services to run my CI/CD on, which could either be Bamboo, Jenkins etc.
+-  Select the plugin 
+- Then finally install them
+
+
+2. If its for automation, there has to be configues in place as to know the kind of tests to execute on X platform.
+- I would keep myself updated with broswer verions to be used
+- Response speed is also key per browser
+-
+
+3. Validations for all fields
+- Error handlings exceptions
+- execute tests pararrel with different browsers
+- Coded a better reusable framework for my tests
+- Would have also stored my data seperately on the test data file. 
